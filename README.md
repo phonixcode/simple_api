@@ -1,2 +1,2 @@
-# siimple_api
+# simple_api
 Create simple api with php
